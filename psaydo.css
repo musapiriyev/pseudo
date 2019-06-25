@@ -1,0 +1,33 @@
+a{
+    display: inline-block;
+    border-radius:  20px;
+    width: 40%;
+    padding: 20px;
+    background-color: #ccc;
+
+    text-align: center;
+color:white;
+margin-left:20px;
+margin-top:20px;
+font-size:20px; 
+}
+
+
+
+a:focus{
+    background-color:rgb(192, 190, 216);
+ 
+    }
+
+a:active{
+    background-color:rgb(91, 85, 163);
+}
+
+a:visited{
+    background-color:red;
+}
+a:hover{
+    background-color:rgb(13, 9, 68);
+}
+
+
